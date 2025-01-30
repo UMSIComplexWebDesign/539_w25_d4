@@ -39,11 +39,18 @@ h3:nth-of-type(7) + p{
     font-family: momospace;
 }
 
-.specifity-tutorial {
-
-}
-
 .box-tutorial {
     border: 1px solid red;
     display: inline-block;
 }
+
+/* Uncomment code below for #7 */
+/* .specificity-tutorial {
+
+} */
+
+.last question{
+    color: blue;
+}
+
+
